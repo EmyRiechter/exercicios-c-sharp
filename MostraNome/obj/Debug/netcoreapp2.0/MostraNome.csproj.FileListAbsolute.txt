@@ -1,0 +1,10 @@
+C:\Users\emely\Desktop\C#\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.deps.json
+C:\Users\emely\Desktop\C#\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.runtimeconfig.json
+C:\Users\emely\Desktop\C#\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.runtimeconfig.dev.json
+C:\Users\emely\Desktop\C#\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.dll
+C:\Users\emely\Desktop\C#\MostraNome\bin\Debug\netcoreapp2.0\MostraNome.pdb
+C:\Users\emely\Desktop\C#\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.csproj.CoreCompileInputs.cache
+C:\Users\emely\Desktop\C#\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.AssemblyInfoInputs.cache
+C:\Users\emely\Desktop\C#\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.AssemblyInfo.cs
+C:\Users\emely\Desktop\C#\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.dll
+C:\Users\emely\Desktop\C#\MostraNome\obj\Debug\netcoreapp2.0\MostraNome.pdb
